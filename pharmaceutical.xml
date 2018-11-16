@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pharmaceutical>
+	<company>
+		<company-name url="http://www.gsk.com/">GlaxoSmithKline</company-name>
+		<headquarters>
+			<phone-number>+44 (0)20 8047 5000</phone-number>
+			<latitude>51.488083</latitude>
+			<longitude>-0.316658</longitude>
+		</headquarters>
+		<products>
+			<product>
+				<brand-name>Amoxil</brand-name>
+				<drug-name>amoxicillin</drug-name>
+				<description>An antibiotic used to treat bacterial infections. Used for pneumonia.</description>
+				<administration>Orally</administration>
+				<contraindications>
+					<contraindication>Liver conditions</contraindication>
+					<contraindication>Severe renal impairment</contraindication>
+				</contraindications>
+			</product>
+			<product>
+				<brand-name>Anectine</brand-name>
+				<drug-name>asuxamethonium chloride</drug-name>
+				<description>Muscle relaxant for endotracheal intubation.</description>
+				<administration>Intravenously</administration>
+				<contraindications>
+					<contraindication>Conscious patient</contraindication>
+					<contraindication>High blook potassium</contraindication>
+				</contraindications>
+			</product>
+			<product>
+				<brand-name>Daraprim</brand-name>
+				<drug-name>Pyrimethamine</drug-name>
+				<description>For the treamtment of toxoplasmosis and acute malaria.</description>
+				<administration>Taken orally with food</administration>
+				<contraindications>
+					<contraindication>People with folate-deficiency anaemia</contraindication>
+					<contraindication>allergic to any ingredient in pyrimethamine</contraindication>
+				</contraindications>
+			</product>
+			<product>
+				<brand-name>Dyazide</brand-name>
+				<drug-name>hydrochlorothiazide and triamtherene</drug-name>
+				<description>For the treatment of fluid retention and high blood pressure.</description>
+				<administration>Taken orally usually once a day in the morning with food</administration>
+				<contraindications>
+					<contraindication>Kidney disease.</contraindication>
+					<contraindication>People with high blood pressure</contraindication>
+				</contraindications>
+			</product>
+		</products>
+	</company>
+</pharmaceutical>

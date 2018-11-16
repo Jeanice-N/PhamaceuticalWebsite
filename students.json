@@ -1,0 +1,25 @@
+{
+"students":
+{
+	"student":[
+		{
+			"fullName": "Arin Bakht",
+			"studentLogin": "bakhta",
+			"studentNumber": "991409768",
+			"studentPicture": "images/arin.jpg"
+		},
+		{
+			"fullName": "Jeanice Nguyen",
+			"studentLogin": "nguyejea",
+			"studentNumber": "991397535",
+			"studentPicture": "images/jeanice.jpg"
+		},
+		{
+			"fullName": "Rongfu Li",
+			"studentLogin": "liron",
+			"studentNumber": "991407986",
+			"studentPicture": "images/rongfu.jpg"
+		}
+	]
+}
+}

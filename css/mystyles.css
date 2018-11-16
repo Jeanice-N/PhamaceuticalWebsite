@@ -1,0 +1,72 @@
+#main{
+	background: linear-gradient(to right, #00ffcc , #ccff33); 
+}
+
+section{
+	margin-bottom:20px;
+}
+
+td, th {
+	text-align: left; 
+	padding:15px; 
+	background: bisque; 
+	width: 25%; 
+	font-size: 1em; 
+	font-weight: bold; 
+}
+
+.content{
+	margin:10px;
+	padding:10px;
+	text-align:center;
+	font-size: 20px;
+	font-family: "Times New Roman", Times, serif;
+	font-style: oblique;
+	color:#ff6600;
+}
+
+img{
+	width: 70%;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+
+.studenticon{
+	width: 50px;
+	height: 50px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #3399ff;
+}
+
+li {
+    float: right;
+	width:33%;
+	text-align:center;
+}
+
+#map{
+    height: 400px;
+    width: 100%;
+}
+
+.Gicon img{
+	width: 100px;
+}
+
+.ui-icon-height:after { background-image: url("images/height_icon.jpg"); background-size: 22px 22px; }
+.ui-icon-inhaler:after { background-image: url("images/inhalerUsage_icon.jpg"); background-size: 22px 22px; }
+.ui-icon-menstruation:after { background-image: url("images/menstruation_icon.jpg"); background-size: 22px 22px; }
+.ui-icon-ovulation:after { background-image: url("images/ovulation_test_icon.jpg"); background-size: 22px 22px; }
+.ui-icon-respiratory:after { background-image: url("images/respiratory_rate_icon.jpg"); background-size: 22px 22px; }
+.ui-icon-sexual:after { background-image: url("images/sexual_activity_icon.jpg"); background-size: 22px 22px; }
+.ui-icon-spotting:after { background-image: url("images/Spotting_icon.jpg"); background-size: 22px 22px; }
+.ui-icon-uv:after { background-image: url("images/uv_icon.jpg"); background-size: 22px 22px; }
+.ui-icon-weight:after { background-image: url("images/weight_icon.jpg"); background-size: 22px 22px; }

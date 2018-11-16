@@ -1,0 +1,72 @@
+{
+	"generalHealth": {
+		"term-group": [
+			{
+				"term": "Height",
+				"definition": "Your height is the distance from the bottom of your feet to the top of your head when you are standing up straight.",
+				"icon": "images/height_icon.jpg",
+				"_reference": "NIH MedlinePlus",
+				"_reference-url": "https://medlineplus.gov/"
+			},
+			{
+				"term": "Inhaler Usage",
+				"definition": "An inhaler is a device that sprays medicine through your mouth to your lungs.",
+				"icon": "images/inhalerUsage_icon.jpg",
+				"_reference": "National Heart, Lung, and Blood Institute",
+				"_reference-url": "http://www.nhlbi.nih.gov/health/health-topics/topics/asthma/treatment.html"
+			},
+			{
+				"term": "Menstruation",
+				"definition": "Menstruation, or period, is normal vaginal bleeding that happens as part of a woman's monthly cycle. Keeping track of your cycles helps you figure out when the next one will come, whether you missed one, and if there is a problem with your cycles.",
+				"icon": "images/menstruation_icon.jpg",
+				"_reference": "NIH MedlinePlus",
+				"_reference-url": "https://medlineplus.gov/menstruation.html"
+			},
+			{
+				"term": "Ovulation Test",
+				"definition": "Ovulation is the release of an egg from a woman's ovary. Ovulation tests detect a rise in a hormone level that happens just before ovulation. This can help you figure out when you will ovulate, and when you are most likely to get pregnant.",
+				"icon": "images/ovulation_test_icon.jpg",
+				"_reference": "NIH MedlinePlus",
+				"_reference-url": "https://medlineplus.gov/femaleinfertility.html"
+			},
+			{
+				"term": "Respiratory Rate",
+				"definition": "Respiratory rate is your rate of breathing (inhalation and exhalation) within a certain time. It is usually stated as breaths per minute.",
+				"icon": "images/respiratory_rate_icon.jpg",
+				"_reference": "National Cancer Institute",
+				"_reference-url": "http://ncit.nci.nih.gov/"
+			},
+			{
+				"term": "Sexual Activity",
+				"definition": "Sexuality is part of being human and plays a role in healthy relationships. Keeping track of your sexual activity can help you watch for sexual problems and fertility problems. It can also help you learn about your risk for sexually transmitted diseases.",
+				"icon": "images/sexual_activity_icon.jpg",
+				"_reference": "NIH MedlinePlus",
+				"_reference-url": "https://medlineplus.gov/sexualhealth.html"
+			},
+			{
+				"term": "Spotting",
+				"definition": "Spotting is light vaginal bleeding that is not your period. It could be between periods, after menopause, or during pregnancy. There can be many different causes; some are serious and some are not. Contact your health care provider if you have spotting; call right away if you are pregnant.",
+				"icon": "images/Spotting_icon.jpg",
+				"_reference": "NIH MedlinePlus",
+				"_reference-url": "https://medlineplus.gov/vaginalbleeding.html"
+			},
+			{
+				"term": "UV Exposure",
+				"definition": "Ultraviolet (UV) rays are an invisible form of radiation from sunlight. They can help your body form vitamin D naturally. But they can pass through your skin and damage your skin cells, causing sunburn. UV rays can also cause eye problems, wrinkles, skin spots, and skin cancer.",
+				"icon": "images/uv_icon.jpg",
+				"_reference": "NIH MedlinePlus",
+				"_reference-url": "https://medlineplus.gov/sunexposure.html"
+			},
+			{
+				"term": "Weight (Body Mass)",
+				"definition": "Your weight is the mass or quantity of your heaviness. It is expressed by units of pounds or kilograms.",
+				"icon": "images/weight_icon.jpg",
+				"_reference": "NIH MedlinePlus",
+				"_reference-url": "https://medlineplus.gov/"
+			}
+		],
+		"_last-updated": "2016-10-03",
+		"_page-url": "https://medlineplus.gov/definitions/generalhealthdefinitions.html",
+		"_title": "General Health"
+	}
+}
